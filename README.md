@@ -22,3 +22,8 @@ At the time of this commit it only capture and clean the text of the tweets and 
 To start capturing tweets run:
 
 `python3 spark_streaming_twitter.py --host=HOST --port=PORT`
+
+## Credits
+
+- https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html#api-using-datasets-and-dataframes
+- https://www.udemy.com/spark-and-python-for-big-data-with-pyspark/
